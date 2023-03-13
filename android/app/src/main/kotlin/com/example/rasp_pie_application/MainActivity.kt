@@ -1,0 +1,6 @@
+package com.example.rasp_pie_application
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
